@@ -1,5 +1,4 @@
 # react-book-search
-Search and display books using axios:
 
 This app will display a list of books, based on what users search for.
 
